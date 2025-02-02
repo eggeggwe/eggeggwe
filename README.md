@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 💬 Ask me about **algorithm, data structure**
+- 💬 Talk with me about **algorithm, data structure**
 
 - 📫 How to reach me **westinlai940221@gmail.com**
 
